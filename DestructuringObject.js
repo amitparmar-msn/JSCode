@@ -4,5 +4,5 @@ const object = {
 };
 const { name: n, skill: s } = object;
 
-console.log(n);
-console.log(s);
+console.log(n); // Hand Written Code
+console.log(s); // JavaScript
