@@ -1,2 +1,2 @@
 # JSCode
-All JS/JavaScript code goes here.
+JS Practice codes with example.
